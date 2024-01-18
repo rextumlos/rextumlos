@@ -1,4 +1,4 @@
-# Hi there, I'm Rex Tumlos 👋
+# Hi there, I'm Rex 👋
 
 ![HitCount](https://hits.dwyl.com/rextumlos/rextumlos.svg?style=flat-square)
 
