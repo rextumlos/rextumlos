@@ -6,7 +6,7 @@ I am a software engineer, musician, and a gamer. I love getting frustrated by co
 
 As a software engineer, I enjoy coding with having a feeling of discovering something ✨, and refactoring. 🧹
 
-<img align="right" alt="GIF" src="https://github.com/rextumlos/rextumlos/blob/main/assets/stray-programming.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/rextumlos/rextumlos/blob/main/assets/stray-programming.gif?raw=true" width="408" height="250" />
 
 ## My Personal Stuffs:
 - 👨‍💻 I'm currently working on something cool.
