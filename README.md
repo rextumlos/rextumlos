@@ -1,6 +1,6 @@
 # Hi there, I'm Rex 👋
 [![wakatime](https://wakatime.com/badge/user/018d1ba7-722c-427f-950e-84280e461875.svg)](https://wakatime.com/@018d1ba7-722c-427f-950e-84280e461875)
-# Glad to see you here!~~ ![HitCount](https://hits.dwyl.com/rextumlos/rextumlos.svg?style=flat-square)
+# Glad to see you here! 🏕️ ![HitCount](https://hits.dwyl.com/rextumlos/rextumlos.svg?style=flat-square)
 
 I am a software engineer, musician, and a gamer. I love getting frustrated by code, playing drums, and reading books.
 
@@ -27,4 +27,4 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--END_SECTION:waka-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rextumlos&theme=dark&hide_border=true"/>
 
-# 🏕️🏕️🏕️
+# 
