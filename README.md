@@ -14,7 +14,8 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <div style: "display: flex; flex-direction: row;">
   <div>
     ## My GitHub Stats:
-    ![Rex's stats:](https://github-readme-stats.vercel.app/api?username=rextumlos&show_icons=true&theme=dark#gh-dark-mode-only)
+     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rextumlos&show_icons=true&theme=dark#gh-dark-mode-only">
+<!--     ![Rex's stats:](https://github-readme-stats.vercel.app/api?username=rextumlos&show_icons=true&theme=dark#gh-dark-mode-only) -->
   </div>
   <div>
     <!--START_SECTION:waka-->
