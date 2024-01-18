@@ -25,6 +25,6 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!-- 📊 **I spent time on:** -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rextumlos&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rextumlos&theme=dark&hide_border=true"/>
 
 # 🏕️🏕️🏕️
