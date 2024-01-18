@@ -11,10 +11,15 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 - 🚀 I'm currently studying Ruby on Rails.
 - 🎹 I want to learn how to play piano properly.
 
-## My GitHub Stats:
-![Rex's stats:](https://github-readme-stats.vercel.app/api?username=rextumlos&show_icons=true&theme=dark#gh-dark-mode-only)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div style: "display: flex; flex-direction: row;">
+  <div>
+    ## My GitHub Stats:
+    ![Rex's stats:](https://github-readme-stats.vercel.app/api?username=rextumlos&show_icons=true&theme=dark#gh-dark-mode-only)
+  </div>
+  <div>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+  </div>
+</div>
 
 # 🏕️🏕️🏕️
