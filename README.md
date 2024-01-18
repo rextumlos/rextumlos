@@ -6,7 +6,7 @@ I am a software engineer, musician, and a gamer. I love getting frustrated by co
 
 As a software engineer, I enjoy coding with having a feeling of discovering something ✨, and refactoring. 🧹
 
-![GIF](https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7)
+<div class="tenor-gif-embed" data-postid="26276551" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/stray-programming-coding-gif-26276551">Stray Programming GIF</a>from <a href="https://tenor.com/search/stray-gifs">Stray GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## My Personal Stuffs:
 - 👨‍💻 I'm currently working on something cool.
