@@ -6,6 +6,8 @@ I am a software engineer, musician, and a gamer. I love getting frustrated by co
 
 As a software engineer, I enjoy coding with having a feeling of discovering something ✨, and refactoring. 🧹
 
+<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" align="right"></iframe>
+
 ## My Personal Stuffs:
 - 👨‍💻 I'm currently working on something cool.
 - 🚀 I'm currently studying Ruby on Rails.
