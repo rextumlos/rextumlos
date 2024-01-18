@@ -8,6 +8,7 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 
 <iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" align="right"></iframe>
 <img align="right" alt="GIF" src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="408" height="318" />
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 
 ## My Personal Stuffs:
 - 👨‍💻 I'm currently working on something cool.
