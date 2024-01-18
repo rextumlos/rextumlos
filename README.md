@@ -6,11 +6,12 @@ I am a software engineer, musician, and a gamer. I love getting frustrated by co
 
 As a software engineer, I enjoy coding with having a feeling of discovering something ✨, and refactoring. 🧹
 
-<img align="right" alt="GIF" src="https://github.com/rextumlos/rextumlos/blob/main/assets/stray-programming.gif?raw=true" width="408" height="250" />
+<img align="right" alt="GIF" src="https://github.com/rextumlos/rextumlos/blob/main/assets/stray-programming.gif?raw=true" width="290" height="160" />
 
 ## My Personal Stuffs:
 - 👨‍💻 I'm currently working on something cool.
 - 🚀 I'm currently studying Ruby on Rails.
+- 🏁 I'm pursuing a long term goal.
 - 🎹 I want to learn how to play piano properly.
 
 <br>
