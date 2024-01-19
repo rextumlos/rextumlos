@@ -31,7 +31,6 @@ ERB    0 secs          ░░░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
