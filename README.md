@@ -24,6 +24,12 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 
 📊 **Time Spent:**
 <!--START_SECTION:waka-->
+
+```txt
+Ruby   21 mins         █████████████████████████   99.77 %
+ERB    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+```
+
 <!--END_SECTION:waka-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rextumlos&theme=dark&hide_border=true"/>
 
