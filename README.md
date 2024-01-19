@@ -32,3 +32,4 @@ ERB    0 secs          ░░░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![Snake animation](https://github.com/rextumlos/rextumlos/blob/output/github-contribution-grid-snake.svg)
