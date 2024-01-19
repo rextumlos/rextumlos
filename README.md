@@ -31,6 +31,4 @@ ERB    0 secs          ░░░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=rextumlos&theme=dark&hide_border=true"/>
 
-# 
