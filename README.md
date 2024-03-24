@@ -26,11 +26,11 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-Python       10 hrs 30 mins  ████████████████████████▓   98.84 %
-PHP          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Ruby         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       5 hrs 4 mins    █████████████████████████   99.46 %
+Ruby         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
