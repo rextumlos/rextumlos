@@ -26,11 +26,11 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby                2 hrs 49 mins   ███████████████▓░░░░░░░░░   62.55 %
-YAML                46 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-ERB                 35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-textmate            8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-JSON                4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+YAML                16 mins         ██████████████████▓░░░░░░   74.53 %
+Docker              2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Markdown            1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+DockerIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Ruby                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
