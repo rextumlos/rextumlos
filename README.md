@@ -26,11 +26,11 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                16 mins         ██████████████████▓░░░░░░   74.53 %
-Docker              2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-Markdown            1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-DockerIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Ruby                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML                16 mins         ██████████████████▓░░░░░░   75.00 %
+Docker              2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
+Markdown            1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+DockerIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Ruby                0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
