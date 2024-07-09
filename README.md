@@ -26,11 +26,11 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript          7 hrs 58 mins   █████████████░░░░░░░░░░░░   51.83 %
-YAML                2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
-CSS                 1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Markdown            56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Ruby                48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+JavaScript          9 hrs 11 mins   ██████████████████░░░░░░░   71.68 %
+CSS                 1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+YAML                1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+Docker              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JSON                9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
