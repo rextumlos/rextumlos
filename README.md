@@ -26,7 +26,8 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby   2 hrs 16 mins   █████████████████████████   99.71 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
