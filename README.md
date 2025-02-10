@@ -26,11 +26,11 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         17 mins         ███████▓░░░░░░░░░░░░░░░░░   30.29 %
-GitIgnore file   14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-textmate         8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-JSON             7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-HTML             6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Markdown         17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+GitIgnore file   14 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+textmate         10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+JSON             7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Docker           6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
 ```
 
 <!--END_SECTION:waka-->
