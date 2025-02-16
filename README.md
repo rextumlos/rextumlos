@@ -26,11 +26,9 @@ As a software engineer, I enjoy coding with having a feeling of discovering some
 <!--START_SECTION:waka-->
 
 ```txt
-textmate         10 mins         █████████▒░░░░░░░░░░░░░░░   37.19 %
-GitIgnore file   8 mins          ████████░░░░░░░░░░░░░░░░░   32.01 %
-Docker           6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Ruby             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-YAML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Docker     6 mins          ██████████████████▓░░░░░░   74.04 %
+textmate   1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
+YAML       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
